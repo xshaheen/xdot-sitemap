@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>X.Sitemap</RootNamespace>
+    <AssemblyName>Xdot.Sitemap</AssemblyName>
+    <Title>Xdot.Sitemap</Title>
+    <PackageId>Xdot.Sitemap</PackageId>
+    <Description>Build your sitemap as specification say.</Description>
+    <PackageTags>SEO, sitemap, create sitemap, generate sitemap</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xdot.Core" Version="3.10.21" />
+  </ItemGroup>
+
+</Project>
