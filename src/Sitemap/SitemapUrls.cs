@@ -33,7 +33,7 @@ namespace X.Sitemap {
             }
 
             foreach (var sitemap in sitemaps) {
-                await using var stream = new MemoryStream();
+                var stream = new MemoryStream();
                 await sitemap.WriteToAsync(stream);
                 streams.Add(stream);
             }
