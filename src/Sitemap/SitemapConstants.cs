@@ -3,7 +3,7 @@
 // See the LICENSE.txt file in the project root for full license information.
 
 using System.Xml;
-using X.Core.Utils;
+using X.Sitemap.Internals;
 
 namespace X.Sitemap {
     public static class SitemapConstants {

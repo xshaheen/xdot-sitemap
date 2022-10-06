@@ -4,7 +4,7 @@
 
 using System;
 using JetBrains.Annotations;
-using X.Core.Extensions;
+using X.Sitemap.Internals;
 
 namespace X.Sitemap {
     /// <summary>Represent a node that reference a sub-sitemap.</summary>

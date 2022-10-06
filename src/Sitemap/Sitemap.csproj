@@ -10,8 +10,4 @@
     <PackageTags>SEO, sitemap, create sitemap, generate sitemap</PackageTags>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Xdot.Core" Version="3.10.21" />
-  </ItemGroup>
-
 </Project>

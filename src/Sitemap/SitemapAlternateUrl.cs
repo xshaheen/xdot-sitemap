@@ -4,7 +4,7 @@
 
 using System;
 using JetBrains.Annotations;
-using X.Core.Extensions;
+using X.Sitemap.Internals;
 
 namespace X.Sitemap {
     /// <summary>Represents sitemap alternate URL node.</summary>

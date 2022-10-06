@@ -5,7 +5,7 @@
 using System;
 using System.Collections.Generic;
 using JetBrains.Annotations;
-using X.Core.Extensions;
+using X.Sitemap.Internals;
 
 namespace X.Sitemap {
     /// <summary>Represents sitemap URL node.</summary>
